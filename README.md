@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm mina</h1>
 <h3 align="center">A passionate programmer developer from Egypt</h3>
-<img align="right" alt="coding" width="400" src="http://user-https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="coding" width="400" src="http://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minamaged18&label=Profile%20views&color=0e75b6&style=flat" alt="minamaged18" /> </p>
 
